@@ -37,3 +37,5 @@ g++ main.cpp -o profile_app
 Hello, World. I am 23 years old.
 My name: John and i'm from USA
 ```
+
+---
